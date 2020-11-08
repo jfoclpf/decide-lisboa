@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/decidim/decidim
+  remote: https://github.com/decidim/decidim.git
   revision: ea20d7223053dcc1edaae8e26a440a345d7dd990
   branch: release/0.23-stable
   specs:
