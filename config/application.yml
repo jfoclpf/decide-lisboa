@@ -1,0 +1,12 @@
+DATABASE_URL: postgres://decidim_app:Password1@localhost/decidim_prod
+
+SECRET_KEY_BASE: e3b77ae57cf4114e04e39065905784a982ca256258ec56229c3f18f5842c606f87e6138da995059e9cd597f07f72d7ded80efeb42f9e8362e00de3db29ebdc1f
+
+
+SMTP_USERNAME: decidelisboa@gmail.com
+SMTP_PASSWORD: UrbanChangers!
+SMTP_ADDRESS: smtp.gmail.com
+SMTP_DOMAIN: gmail.com
+
+
+
